@@ -68,9 +68,12 @@ trust-repo
 - Copyright (c) 2023 https://github.com/bentman
 - https://github.com/bentman/PoSh-ScriptRepo/SharePointRepoModule
 
-### GNU General Public License
-This script is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+### Contributions
 
-This script is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or enhancements.
 
-You should have received a copy of the GNU General Public License along with this script.  If not, see <https://www.gnu.org/licenses/>.
+### License
+
+This script is distributed without any warranty; use at your own risk.
+This project is licensed under the GNU General Public License v3. 
+See [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) for details.
